@@ -1,0 +1,22 @@
+body {
+    background-color: BlanchedAlmond;
+}
+
+p {
+  padding-left: 10px;
+}
+
+h1 {
+    color: SaddleBrown;
+}
+
+h3 {
+    color: brown;
+}
+
+hr {
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 8%
+}
